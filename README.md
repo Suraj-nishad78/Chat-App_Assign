@@ -20,8 +20,8 @@ A responsive single-page chat application built with React.js that allows users 
 
 ## 🔗 Project Links
 
-- **Live Demo:** [View Hosted Project](https://photo-gallery7.netlify.app/)
-- **GitHub Repository:** [View Source Code](https://github.com/Suraj-nishad78/Photo-Gallery)
+- **Live Demo:** [View Hosted Project](https://chat-app-assign.netlify.app/)
+- **GitHub Repository:** [View Source Code](https://github.com/Suraj-nishad78/Chat-App_Assign)
 
 ## 🚀 Getting Started
 
@@ -35,7 +35,7 @@ A responsive single-page chat application built with React.js that allows users 
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Suraj-nishad78/Chat-App_Assign
    ```
 
 2. Navigate to the project directory:
